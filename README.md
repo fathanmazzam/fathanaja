@@ -1,0 +1,253 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+
+<html>
+<title>toyota supra</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio MP3 Player</title>
+</head>
+<body>
+
+<audio controls autoplay>
+    <source src="tokyodrift.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
+
+<body>
+
+<div class="w3-bar w3-black">
+<div class="w3-container">
+<div class="w3-black">
+ <center><img src="lambang5.jpg" width="100%" height="100%"></center>
+</div>
+<div class="w3-bar w3-black">
+ <button class="w3-bar-item w3-button" onclick="openKota('tentang')">Tentang</button>
+ <button class="w3-bar-item w3-button" onclick="openKota('toyota supra MK4')">Toyota Supra MK4</button>
+ <button class="w3-bar-item w3-button" onclick="openKota('toyota supra MK5')">Toyota Supra MK5</button>
+	<div class="w3-dropdown-hover">
+	<button class="w3-button">Generasi Toyota Supra</button>
+		<div class="w3-dropdown-content w3-bar-block w3-card-4">
+			<button class="w3-bar-item w3-button" onclick="openKota('opacity')">Generasi 1</button>
+			<button class="w3-bar-item w3-button" onclick="openKota('opacity2')">Generasi 2</button>
+			<button class="w3-bar-item w3-button" onclick="openKota('opacity3')">Generasi 3</button>
+			<button class="w3-bar-item w3-button" onclick="openKota('opacity4')">Generasi 4</button>
+			<button class="w3-bar-item w3-button" onclick="openKota('opacity5')">Generasi 5</button>
+		</div>
+	</div>
+ <button class="w3-bar-item w3-button w3-right" onclick="openKota('about')">About Me</button>
+ 
+</div>
+ <div id="opacity" class="w3-container kota w3-animate-opacity" style="display:none">
+ <center><h2>Generasi 1</h2>
+ <hr>
+ <img src="supra1.jpg" width=35% height=45%>
+ <br>
+ <br>
+ <p>Seperti diketahui sebelumnya, generasi pertama Toyota Supra muncul pada 1970-an, lebih tepatnya di tahun 1978. Mobil dengan kode sasis A40 ini jadi basis utama Toyota Supra yang diproduksi saat ini, di mana merupakan pengembangan dari Celica Liftback.
+ Sebagai informasi, Toyota Supra generasi pertama masih jadi bagian dari Celica, yakni Celica Supra. Celica Supra diposisikan sebagai sebuah sport car yang digunakan untuk sehari-hari.  Mobil ini pun dijuluki ‘Pony Car’.
+ Ciri khas dari Toyota Supra yang diwariskan secara turun-temurun yaitu mempunyai kap mesin panjang di mana membuat ruang kabin mobil tersebut jadi terbatas.
+ Oleh karena itu, Toyota Supra tidak dapat memuat orang banyak. Mobil sport ini hanya dapat menampung dua orang, termasuk pengemudi. Meski demikian, Supra tetap diincar banyak orang, khususnya pecinta mobil sport. Kap mesin Supra generasi pertama mengakomodasi mesin 6 silinder beserta transmisi yang meneruskan tenaga mesinnya ke roda belakang.
+ Soal dapur pacu, Toyota Supra generasi pertama ditawarkan dalam tiga jenis mesin. Pertama, mesin M-EU dengan kapasitas 1.998 cc. Kedua, mesin 4M-E berkapasitas 2.563 cc dan terakhir, mesin 5M-E yang memiliki kapasitas 2.759 cc.</p>
+ <br>
+ <br>
+ <br>
+ </center>
+ </div>
+ 
+ <div id="opacity2" class="w3-container kota w3-animate-opacity" style="display:none">
+ <center><h2>Generasi 2</h2>
+ <hr>
+ <img src="supra2.jpg" width=35% height=45%>
+ <br>
+ <br>
+ <p>Toyota Supra generasi kedua pun hadir di negara asalnya, Jepang, tiga tahun setelahnya, yakni di tahun 1981. Setahun setelahnya, mobil tersebut diekspor secara global.
+ Tampilan Supra generasi kedua ini terkesan begitu aerodinamis dengan disematkan lampu pop up yang menjadi tren di masanya.
+ Secara keseluruhan, mobil tersebut terlihat maskulin serta tangguh. Toyota Supra generasi kedua dinilai sukses, di mana mobil ini telah diakui pasar-pasar global seperti Inggris dan Eropa.
+ Mobil ini pernah mendapat gelar di ajang British Saloon Car Championship dan US (United States) Grand Prix di tahun 1979.
+ Supra generasi kedua sudah dilengkapi mesin dengan tenaga induksi mumpuni yang pertama kali diperkenalkan di generasi tersebut dengan kode M-TEU berkapasitas 1.998 cc Turbocharger serta M-TE 1.998 cc Turbocharger.
+ Selain itu, tersedia juga mesin dengan kode lainnya, yakni 1G-EU dan 1G-GEU berkapasitas 1.998 cc, serta 5M-E dan 5M-GE dengan kapasitas 2.759 cc.
+ Empat kode mesin Supra ini hadir dengan Normally Aspirated (N/A) 6 silinder segaris. Di tahun 1985, Toyota Supra memisahkan diri dari Celica, kemudian dirilis generasi selanjutnya di tahun selanjutnya.</p>
+ <br>
+ <br>
+ <br>
+ </center>
+ </div>
+
+ <div id="opacity3" class="w3-container kota w3-animate-opacity" style="display:none">
+ <center><h2>Generasi 3</h2>
+ <hr>
+ <br>
+ <p>Dihadirkan pada 1986, Toyota Supra generasi ketiga langsung mencuri perhatian para pecinta mobil sport.
+ Desain mobil yang cenderung mengotak serta besar di generasi sebelumnya sudah digantikan dengan yang lebih aerodinamis serta slim pada Supra generasi ketiga.
+ Namun, lampu depan pop up masih disematkan pada Supra generasi tersebut. Perlu diketahui, lampu model pop up adalah hal wajib pada setiap mobil sport di masa itu.
+ Selain itu, Supra generasi ketiga masih mempertahankan sistem penggerak roda belakang. Mobil ini pun diklaim sangat diterima di pasar Amerika maupun Eropa.
+ Mengenai dapur pacu, Supra generasi ketiga ditawarkan dalam tiga pilihan mesin, yaitu 2.000 cc, 2.000 cc turbo, dan 3.000 cc turbo, sehingga calon konsumen yang ingin membeli mobil ini punya banyak pilihan. Dari ini, nama Supra Turbo pun tercpita.
+ Untuk mesin berkapasitas 3.000 cc turbo, dapat menghasilkan tenaga hingga 230 hp.
+ Model ini turut disematkan berbagai fitur dan teknologi canggih, mulai dari pendingin oli mesin, spoiler belakang yang terintegrasi Limited Slip Differential (LSD), Anti Lock Braking System (ABS), dan lain-lain.</p>
+ <br>
+ <br>
+ <br>
+ </center>
+ </div>
+
+ <div id="opacity4" class="w3-container kota w3-animate-opacity" style="display:none">
+ <center><h2>Generasi 4</h2>
+ <hr>
+ <img src="supra11.jpg" width=35% height=45%>
+ <br>
+ <br>
+ <p>Toyota Supra generasi keempat pun dihadirkan pada 1993 silam. Mobil tersebut mengusung filosofi ‘Less is More’ dan menggunakan kode Mk4 khusus pasar AS (Amerika Serikat).
+ Supra generasi keempat ini diklaim dapat memberi aerodinamis lebih baik, di mana bobotnya sendiri dipangkas hingga sekitar 100 kg.
+ Mobil tersebut dibenamkan mesin berkapasitas 3.000 cc turbo JZ Series yang bisa menghasilkan tenaga sebesar 320 hp pada 5.600 rpm serta torsi puncak 427 Nm pada 4.200 rpm.
+ Mesin tersebut dikawinkan dengan dua pilihan transmisi, yaitu manual 6 percepatan dan otomatis 4 percepatan.
+ Penggunaan bahan alumunimum dalam jumlah banyak serta disematkan beragam fitur yang dinilai modern di masanya, membuat Supra generasi keempat begitu banyak diminati oleh konsumen.
+ Bahkan, mobil ini sering tampil di berbagai film Hollywood berkat tampilannya yang terlihat sangat menarik. Sebut saja salah satu filmnya yakni Fast and Furious yang masuk box office di berbagai negara, termasuk Indonesia.
+ Namun sayangnya di tahun 2002 lalu, Toyota Supra sempat pamit mundur dari pasar sport car. Meski demikian, Supra generasi keempat termasuk sport car paling dikenang serta paling populer berkat keunggulan-keunggulan yang dimilikinya.</p>
+ <br>
+ <br>
+ <br>
+ </center>
+ </div>
+
+ <div id="opacity5" class="w3-container kota w3-animate-opacity" style="display:none">
+ <center><h2>Generasi 5</h2>
+ <hr>
+ <img src="supra10.jpeg" width=35% height=45%>
+ <br>
+ <br>
+ <p>Penantian pecinta sport car, khususnya Toyota Supra, akhirnya berakhir di tahun 2014, di mana Toyota memberi tanda kembalinya mobil tersebut meski hanya dalam bentuk mobil konsep FT-1.
+ Mobil ini merupakan proyek kerja sama dengan BMW yang mengusung desain sangat modern serta disematkan berbagai teknologi canggih, namun masih mempunyai DNA Supra melegenda.
+ Butuh waktu hingga 17 tahun untuk Toyota kembali menghadirkan Supra ke publik dengan merilis generasi kelima mobil ini di ajang Detroit Auto Show 2019.
+ Mengenai mesin yang digunakan, Supra generasi kelima ini ditawarkan dalam dua pilihan mesin, yaitu mesin berkapasitas 3.000 cc, 6 silinder segaris, Twin Scroll Turbocharger sebagai mesin utama. Pilihan mesin lainnya yaitu mesin turbo berkapasitas 2.000 cc.</p>
+ <br>
+ <br>
+ <br>
+ </center>
+ </div>
+
+<div id="tentang" class="w3-container kota w3-animate-zoom">
+ <center><h1>Tentang Toyota Supra</h1></center>
+ <hr>
+ <center><img src="supra.png" width=50% height=50%></center>
+ <br>
+ <br>
+ <center>
+ <p>Toyota Supra merupakan salah satu sport car populer dan banyak diminati. Jika berbicara mengenai sejarah Toyota Supra ini, pastinya beberapa dari Carmudian teringat dengan Toyota 2000GT yang diluncurkan pada 1967 silam dan muncul di film James Bond berjudul “You Only Live Twice”.</p>
+ <p>Hadir pertama kali di tahun 1970-an, kesuksesan Toyota Supra tak lepas dari peran Toyota Celica, di mana Supra mengandalkan basis dari Celica Liftback.</p>
+ <p>Toyota Supra memang mempunyai sejarah yang panjang dan penggemarnya terbilang tidak sedikit hingga kini. Desain mobil ini sangat sporty dan stylish, serta dibenamkan mesin dengan performa yang ganas.</p>
+ <p>Selain itu, Toyota Supra ini juga dinilai mudah dimodifikasi, sehingga ada banyak pecinta modifikasi yang menginginkan mobil tersebut.</p>
+ <p>Seiring dengan berjalannya waktu, Toyota Supra menjadi model tersendiri. Generasi pertama hingga keempat Supra (MKI hingga MKIV) diproduksi antara tahun 1978 hingga 2002. Setelah lebih dari satu dekade tak ada pembaruan, Toyota meluncurkan model generasi kelima Toyota Supra pada tahun 2019.</p>
+ </center>
+ <br>
+ <br>
+ <br>
+</div>
+
+<div id="toyota supra MK4" class="w3-container kota w3-animate-bottom" style="display:none">
+ <center><h1>Keistimewaan Toyota Supra MK4</h1></center>
+ <hr>
+ <br>
+ <p>Toyota Supra MK4 yang dibangun di atas kode sasis A80 bisa dibilang merupakan Toyota Supra paling diburu. Bagi pecinta otomotif, Toyota Supra generasi keempat ini dinilai punya banyak kelebihan.
+ Salah satu kelebihan yang paling menonjol dari mobil ini adalah mesinnya yang sangat buas. Mesin standar dari Toyota Supra MK4 ini bisa menghasilkan ratusan tenaga kuda.
+ Bahkan jika dimodifikasi, tenaga mesin standar Supra MK4 ini bisa mencapai ribuan tenaga kuda. Buat pecinta kecepatan mesin ini masih dianggap mesin dewa dan mesin terbaik.
+ Tapi selain mesin, apa sih alasan banyak orang memburu mobil sport yang satu ini? Kenapa sampai sekarang mobil ini masih bisa bikin orang tergila-gila, ya?</P>
+ <br>
+ 
+ <h2>1. Mesin Toyota Supra MK4</h2>
+ <p>Pada saat pertama kali diperkenalkan oleh Toyota, Supra generasi keempat ini hadir dalam dua pilihan mesin; 2JZ-GE non turbo dan 2JZ-GTE turbo.
+ Mesin dengan kode 2JZ ini sendiri merupakan mesin yang pertama kali diperkenalkan pada tahun 1990. Sebenarnya mobil pertama yang memakai mesin 2JZ ini adalah Toyota Aristo lansiran 1991.
+ Mesin ini punya 6 silinder dengan kapasitas mencapai 2.997 cc. Mesin ini bisa mengeluarkan tenaga sampai 220 hp dengan torsi 298 Nm.
+ Di atas kertas, spesifikasi mesin 2JZ ini memang sangat kencang buat mobil di era 1990-an. Tapi, 2JZ-GTE punya spesifikasi yang jauh lebih buas dibanding versi 2JZ-GE.
+ 2JZ-GTE pertama kali dipakai oleh Toyota Aristo pada 1991. Secara kapasitas, mesin 2JZ-GTE sama dengan GE. Bedanya, versi GTE sudah DOHC, turbo intercooler, twin turbo, dan pakai blok aluminium, serta diproduksi hingga 2002
+ Pada 1997, baik GE maupun GTE mendapatkan pembaruan dengan memakai VVT-i. Tenaga yang bisa diraih 2JZ-GTE mencapai 276 hp dengan torsi 434 Nm.</p>
+ 
+ <h2>2. Mesin Versi Ekspor Lebih Bagus Dibanding Versi Jepang</h2>
+ <p>Menariknya lagi, tenaga mesin Supra MK4 untuk beberapa negara berbeda-beda. Misalnya, untuk pasar Amerika Utara punya tenaga 320 hp, sedangkan pasar Eropa 325 hp.
+ Artinya, tenaga untuk pasar ekspor dibuat lebih buas lantaran beda komponen.
+ Desain yangmenarik banget pada MK4 adalah pada bagian lampu belakangnya yang terdiri dari 8 buah lampu (4 di kanan, dan 4 di kiri). Lampu ini membuat Supra jadi kelihatan garang, sporty, dan ikonik.
+ Apalagi bagian depan, setiap lampu depannya terdiri dari 3 bagian. Sehingga kalau ditotal jumlah lampunya mencapai 6 bulatan.</p>
+ 
+ <h2>3. Lebih Ringan dari Supra MK3</h2>
+ <p>Secara bobot, Supra A80 ini punya bobot lebih ringan dibanding generasi sebelumnya. Bahkan beda bobotnya mencapai 91 kg lebih ringan dibanding Supra A70.
+ Hal ini disebabkan oleh penggunaan material ringan. Seperti kap mesin berbahan aluminium, roda kemudi, crossmember depan, oil pan, dan girboks.
+ Secara total Toyota Supra MK4 transmisi manual punya bobot 1.456 kg, versi targa 1.474 kg, dan transmisi matik 1.481 kg.
+ Lalu untuk versi mesin turbo bobotnya mencapai 1.565 kg untuk transmisi manual, versi transmisi otomatis bobotnya lebih berat 5 kg, mencapai 1.570 kg.</p>
+ <br>
+ <br>
+ <br>
+ 
+</div>
+
+<div id="toyota supra MK5" class="w3-container kota w3-animate-bottom" style="display:none">
+ <center><h1>Keistimewaan Toyota Supra MK5</h1></center>
+ <hr>
+ <br>
+ <p>Setelah lebih dari satu dekade tak ada pembaruan, Toyota meluncurkan model generasi kelima Toyota Supra pada tahun 2019. Generasi terbaru ini dikembangkan bersama BMW, sehingga Toyota Supra berbagi platform dengan BMW Z4.
+ Di Indonesia sendiri, PT Toyota Astra Motor (TAM) resmi menghadirkan new GR Supra di Indonesia pada akhir 2022 silam. Model ini, merupakan flagship sportcar dari pabrikan asal Jepang, yang menawarkan ubahan besar, dari segi handling dan juga kenyamanan berkendara.
+ "New GR Supra merupakan wujud komitmen Toyota dalam menjalankan semangat continuous improvement dan menghadirkan ever better cars, sehingga sanggup mendapatkan ruang pengembangan demi menghasilkan excitement yang lebih maksimal bagi para GR fans di Indonesia," kata Vice President Director PT TAM, Henry Tanoto, pada saat peluncuran, Rabu (7/12/2022).</p>
+ <br>
+ 
+ <h2>1. Desain Eksterior Toyota Supra</h2>
+ <p>Dari segi eksterior, terdapat penyegaran dari pelek forged alumunium baru 19 inch, yang berbagi desain dengan GR Yaris dan GR86. Pelek canggih ini, lebih ringan 12 kg ketimbang model lama.
+ Sentuhan berikutnya adalah penambahan opsi body color yaitu Matte Mineral White, Portimao Blue, dan Sparkling Cupper Gray.
+ Desain interior new GR Supra juga mendapatkan penyegaran dengan nuansa balap yang kental, panel instrumen modern di balik kemudi dengan layar 8,8 inch terlihat sangat simpel dan mudah dipahami.
+ Kemudi New GR Supra dibuat lebih segar dengan sentuhan ornamen berwarna silver. Sistem audio ditingkatkan dengan menambah speaker dari 10 unit menjadi 12 unit besutan JBL.</p>
+ 
+ <h2>2. Mesin dan Harga</h2>
+ <p>New GR Supra mengadopsi mesin berkapasitas 3.000 cc 6-silinder inline, yang secara spontan sanggup menghasilkan tenaga 350 PS pada 5.000-6.500 rpm dan torsi 500 Nm pada 1.600-4.500 rpm.
+ Twin-scroll Turbocharger memastikan engine sanggup menyalurkan power terbaik di setiap rentang putaran mesin ke transmisi 8-speed Sport Automatic dengan rasio gigi rapat supaya dapat mendistribusikan tenaga dengan gesit dan cekatan ketika dipacu, tapi masih luwes ketika cruising di jalan tol atau terkena stop and go di dalam kota.
+ Dari segi teknologi, new GR Supra didukung oleh fitur advance berbasis teknologi telematika, yaitu T Intouch yang menghadirkan pengalaman konektivitas digital dalam kehidupan sehari-hari.
+ Fitur ini menghubungkan pengguna sportscar ini ke seluruh layanan Toyota, untuk mendapatkan solusi dan manfaat terintegrasi.
+ Terdapat 2 kategori layanan, pertama adalah Safety & Convenience yang terdiri atas Find My Car, Stolen Vehicle Tracking, Geofencing, dan Vehicle Info. Layanan kedua adalah Peace of Mind yang terdiri atas E-Care (Maintenance), Inquiry & Support Center, Trip Driving Update, dan Road Assistance.
+ Harganya, new Toyota GR Supra dibanderol Rp 2.188.400.000 on the road (OTR) Jakarta.</p>
+ <br>
+ <br>
+ <br>
+
+</div>
+
+<div id="about" class="w3-container kota w3-animate-zoom" style="display:none">
+<center>
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Player</title>
+</head>
+
+</html>
+<hr>
+<center><img src="fathan.jpg" width=20% height=50%></center>
+<h2>Fathan Muhammad Azzam</h2>
+<p><a href="https://www.instagram.com/faaathn_/"><img src="ig2.png" width=2% height=4%></a>: @faaathn_</P>
+<h3>IF-4</h3>
+<h3>10123150</h3>
+<h2>Universitas Komputer Indonesia</h2>
+<br>
+<br>
+<br>
+<script>
+function openKota(namakota) {
+ var i;
+ var x = document.getElementsByClassName("kota");
+ for (i = 0; i < x.length; i++) {
+ x[i].style.display = "none";
+ }
+ document.getElementById(namakota).style.display = "block";
+}
+</script>
+</body>
+</html>
